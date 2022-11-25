@@ -2,7 +2,7 @@
 
 **Creating Kafka Producer**
 
-Basically, there are four steps to create a java producer, as discussed earlier:
+Basically, there are four steps to create a java producer:
 
 1. Create producer properties
 2. Create the producer
